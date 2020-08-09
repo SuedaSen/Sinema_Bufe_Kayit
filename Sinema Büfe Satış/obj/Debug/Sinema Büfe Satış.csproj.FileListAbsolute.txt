@@ -1,0 +1,20 @@
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.exe.config
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.exe
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.pdb
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema_Büfe_Satış.Form1.resources
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema_Büfe_Satış.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.exe
+C:\Users\MSİ\Desktop\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.pdb
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.exe.config
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.exe
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\bin\Debug\Sinema Büfe Satış.pdb
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csprojAssemblyReference.cache
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema_Büfe_Satış.Form1.resources
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema_Büfe_Satış.Properties.Resources.resources
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csproj.GenerateResource.cache
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.csproj.CoreCompileInputs.cache
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.exe
+C:\Users\sen\Desktop\C# PROJELER\Sinema Büfe Satış\Sinema Büfe Satış\obj\Debug\Sinema Büfe Satış.pdb
